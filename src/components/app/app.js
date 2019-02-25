@@ -18,7 +18,6 @@ class App extends Component {
   render() {
     return (
     	<div className={styles.container}>
-		    <div className={styles.title} >Kayak UI Acadamy exercise</div>
 		    <Autocomplete />
 		</div>
     );
